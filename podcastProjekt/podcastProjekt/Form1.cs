@@ -23,6 +23,7 @@ namespace podcastProjekt
         private void btn2_Click(object sender, EventArgs e)
         {
             Console.WriteLine("tja");
+            Console.WriteLine("dettaÄrEttTest")
         }
     }
 }
