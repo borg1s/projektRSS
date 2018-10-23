@@ -39,6 +39,7 @@
             this.btn2.TabIndex = 0;
             this.btn2.Text = "BurYESE";
             this.btn2.UseVisualStyleBackColor = true;
+            this.btn2.Click += new System.EventHandler(this.btn2_Click);
             // 
             // Form1
             // 
